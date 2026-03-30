@@ -7,6 +7,7 @@ This project performs data analysis using Python and Pandas.
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## 📊 Key Insights
 - Cleaned and analyzed dataset
